@@ -2,6 +2,10 @@
 <h3 align="center">Self-Taught Software Developer Since 2000 | Lifelong Learner | Python Enthusiast</h3>
 
 <p align="center">
+  <img src="profile-photo.jpg" alt="Andrew Tite" width="180" style="border-radius:50%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=550&lines=Two+decades+of+passion+for+code.;Powered+by+certifications+and+growth." alt="Typing SVG" />
 </p>
 
